@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/brunodogbase/Projects/CSharpSeb/ADO/ADO/ADO.sqlproj": {}
+  },
+  "projects": {
+    "/Users/brunodogbase/Projects/CSharpSeb/ADO/ADO/ADO.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brunodogbase/Projects/CSharpSeb/ADO/ADO/ADO.sqlproj",
+        "projectName": "ADO",
+        "projectPath": "/Users/brunodogbase/Projects/CSharpSeb/ADO/ADO/ADO.sqlproj",
+        "packagesPath": "/Users/brunodogbase/.nuget/packages/",
+        "outputPath": "/Users/brunodogbase/Projects/CSharpSeb/ADO/ADO/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/brunodogbase/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5128"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

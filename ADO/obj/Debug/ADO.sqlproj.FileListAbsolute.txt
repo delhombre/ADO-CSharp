@@ -1,0 +1,9 @@
+/Users/brunodogbase/Projects/CSharpSeb/ADO/ADO/bin/Debug/ADO.dacpac
+/Users/brunodogbase/Projects/CSharpSeb/ADO/ADO/bin/Debug/ADO.dll
+/Users/brunodogbase/Projects/CSharpSeb/ADO/ADO/bin/Debug/ADO.pdb
+/Users/brunodogbase/Projects/CSharpSeb/ADO/ADO/obj/Debug/Model.xml
+/Users/brunodogbase/Projects/CSharpSeb/ADO/ADO/obj/Debug/refactor.xml
+/Users/brunodogbase/Projects/CSharpSeb/ADO/ADO/obj/Debug/postdeploy.sql
+/Users/brunodogbase/Projects/CSharpSeb/ADO/ADO/obj/Debug/predeploy.sql
+/Users/brunodogbase/Projects/CSharpSeb/ADO/ADO/obj/Debug/ADO.dll
+/Users/brunodogbase/Projects/CSharpSeb/ADO/ADO/obj/Debug/ADO.pdb

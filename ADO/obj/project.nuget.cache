@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HOSOABf+LUlD/LVFlKyZJYAjpOILBdcEBeGcPeS4qzC5TPRp7xg6/l0gm70xhmv5bIW2l21MIMTVm0B4OgQETg==",
+  "success": true,
+  "projectFilePath": "/Users/brunodogbase/Projects/CSharpSeb/ADO/ADO/ADO.sqlproj",
+  "expectedPackageFiles": [
+    "/Users/brunodogbase/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/Users/brunodogbase/.nuget/packages/microsoft.netframework.referenceassemblies.net46/1.0.0/microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
